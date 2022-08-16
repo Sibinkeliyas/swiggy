@@ -1,0 +1,286 @@
+body{
+    margin: 0%;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    
+}
+.main{
+    width: 48%;
+    height: 70px;
+display: flex;
+justify-content: space-between;
+}
+.logo{
+    margin-left: 77px;
+    margin-top: 59px;
+    height: 68px;
+}
+.unorder{
+    margin-top: 71px;
+}
+.button{
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    
+    padding: 0 2rem;
+    color: #000;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    width: auto;
+    background-color: transparent;
+    margin-left: 122px;
+    cursor: pointer;
+}
+.button:hover{
+    color: #fc8019;
+    
+}
+.signup{
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    border: none;
+    line-height: 50px;
+    font-size: 14px;
+    height: 50px;
+    padding: 0 2rem;
+    color: #fff;
+    letter-spacing: 0;
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    width: auto;
+    background-color: black;
+}
+.empty{
+    position: absolute;
+    left: calc(45% + 80px);
+    right: 0;
+    background-repeat: no-repeat;
+    height: 70%;
+    background-size: cover;
+    background-position: 100%;
+    top: 0;
+    background-color: hsla(26,5%,70%,.2);
+}
+.text{
+    margin-top: 80px;
+    margin-left: 40px;
+    font-size: 44px;
+    color: rgb(43, 39, 39);
+    
+}
+.text1{
+    padding-left: 41px;
+    font-size: 22px;
+    
+}
+.input{
+    margin-left: 41px;
+    margin-top: 28px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border: 1px solid #fc8019;
+    
+    
+    
+}
+.btn{
+    width: 155px;
+    margin-left: 548px;
+    margin-top: -75px;
+    padding-left: 0px;
+}
+.button1{
+    padding-top: 14px;
+    padding-bottom: 17px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-left: -6px;
+    background: #fc8019;
+    border: 1px solid #fc8019;
+    margin-top:37px;
+    cursor: pointer;
+}
+.food{
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.fa-solid{
+    margin-left: -22px;
+    margin-left: 5px;
+}
+.i{
+    margin-top: -34px;
+    margin-left: 420px;
+    width: 7px;
+    cursor: pointer;
+}
+.me{
+    position: absolute;
+    top: 311px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.me:hover{
+    color: rgb(170, 158, 158);
+}
+.text2{
+    margin-left: 40px;
+    margin-top: 36px;
+    color: grey;
+    font-size: 14px;
+}
+.text3{
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 37px;
+    color: #686b78;
+}
+.text4{
+    color: #959ab3;
+}
+.swiggyimage{
+    width: 100%;
+    height: 100%
+}
+.center{
+    background-color: rgba(0,0,0,.87);
+    width: 100%;
+    height: 150%;
+    margin-top: 75px;
+    display: flex;
+    justify-content: space-around;
+}
+.swiggyorder{
+    width: 125px;
+    
+    
+}
+.text5{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+   
+}
+.text6
+{
+color: #fff;
+margin-top: -1px;
+padding-left: 16px;
+
+
+}
+.swiggyorder1{
+    width: 125px;
+   
+}
+.swiggyorder3{
+    width: 125px;
+
+    
+}
+.image1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.image3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+   
+   
+  
+    
+}
+.bottom{
+    
+        background-color: white;
+        width: 100%;
+        height: 600px;
+        
+        display: flex;
+    justify-content: flex-start;
+        
+        
+}
+.h2{
+    padding: 62px;
+    color: #282c3f;
+    padding-top: 130px;
+    font-size: 38px;
+
+}
+.subtext7{
+    margin-top: -63px;
+    margin-left: 60px;
+}
+.text7{
+    color: rgb(134, 128, 128);
+    font-size: 20px;
+}
+.phone{
+    margin-left: 203px;
+}
+.phoneimg{
+    top: 0;
+   
+    width: 350px;
+}
+.font{
+    
+       width: 446px;
+    
+}
+.phone2{
+    
+    margin-top: 69px;
+}
+.phoneimg1{
+    top: 0;
+   
+    width: 350px;
+    
+}
+.appstore
+{
+    
+    height: 54px;
+    margin-left: 50px;
+    margin-top: 32px;
+   
+}
+.apple{
+    height: 54px;
+    margin-left: 6px;
+    margin-top: 32px;
+    cursor: pointer;
+}
+
+
+
